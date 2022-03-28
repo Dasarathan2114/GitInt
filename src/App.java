@@ -4,7 +4,7 @@ package DemoProject;
  * Hello world!
  *
  */
-public class  
+public class App 
 {
     public static void main( String[] args )
     {
